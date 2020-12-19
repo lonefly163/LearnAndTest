@@ -11,6 +11,7 @@ def print_hi(name):
     print("edit from github.com")
     print("diff from github.com")
     print("Added after new remote server: t.lonefly.xyz")
+    print("new lines")
 
 
 # Press the green button in the gutter to run the script.
