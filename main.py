@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print("New git done")
     print("edit from github.com")
+    print("diff from github.com")
 
 
 # Press the green button in the gutter to run the script.
